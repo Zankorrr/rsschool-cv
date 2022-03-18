@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: "Poppins Light", sans-serif;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+    background: linear-gradient(#152837, 70%, #ffbd59) no-repeat;
+}
