@@ -29,3 +29,15 @@
   </label>
 </form>
 ```
+
+## _Work experience:_
+#### Only self educations!
+- C++
+- Java
+- Swift
+- Front End (by Rolling Scopes)
+    - Markdown
+    - HTML
+
+## _English: A2_
+_(almost...)_
